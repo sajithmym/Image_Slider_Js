@@ -27,23 +27,23 @@ let next = () => {
 }
 
 let img = [
-    "untitled.png",
-    "Tower.jpg",
-    "Super Man.jpg",
-    "soider man.jpg",
-    "Flash.jpg",
-    "Wallpaper 327.jpg",
-    "Batman.jpg",
-    "Batman s.jpg",
-    "1.jpg",
-    "2.jpg",
-    "3.jpg",
-    "4.jpg",
-    "5.jpg",
-    "6.jpg",
-    "7.jpg",
-    "8.jpg",
-    "9.jpg"
+    "Pic/untitled.png",
+    "Pic/Tower.jpg",
+    "Pic/Super Man.jpg",
+    "Pic/soider man.jpg",
+    "Pic/Flash.jpg",
+    "Pic/Wallpaper 327.jpg",
+    "Pic/Batman.jpg",
+    "Pic/Batman s.jpg",
+    "Pic/1.jpg",
+    "Pic/2.jpg",
+    "Pic/3.jpg",
+    "Pic/4.jpg",
+    "Pic/5.jpg",
+    "Pic/6.jpg",
+    "Pic/7.jpg",
+    "Pic/8.jpg",
+    "Pic/9.jpg"
 ]
 
 let num = 0

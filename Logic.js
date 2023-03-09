@@ -1,11 +1,14 @@
 let previous = () => {
+
     if (num == 0)
         num = img.length
     num-=1
     Photo.src = img[num]
+
 }
 
 let play = (i) => {
+
     console.log(playing.innerHTML);
     if (autoplay){
         clearInterval(autoplay)
@@ -27,6 +30,7 @@ let next = () => {
 }
 
 let img = [
+
     "Pic/untitled.png",
     "Pic/Tower.jpg",
     "Pic/Super Man.jpg",
@@ -44,6 +48,7 @@ let img = [
     "Pic/7.jpg",
     "Pic/8.jpg",
     "Pic/9.jpg"
+    
 ]
 
 let num = 0

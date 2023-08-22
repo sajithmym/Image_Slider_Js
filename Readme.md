@@ -1,4 +1,4 @@
-﻿#Image Slider
+﻿# Image Slider
  
  Link : https://sajithmym.github.io/Image_Slider_Js/
 

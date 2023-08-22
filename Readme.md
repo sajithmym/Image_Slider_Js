@@ -1,4 +1,4 @@
-﻿# This is Image Slider --> Logic Using Js
+﻿#Image Slider
  
  Link : https://sajithmym.github.io/Image_Slider_Js/
 
